@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Github\Test1\PropertyChangeApp\NotifyPropertyChangedApp\obj\Debug\
+D:\work\GitHub\Test1\PropertyChangeApp\NotifyPropertyChangedApp\obj\Debug\
 NotifyPropertyChangedApp
 none
 false
 DEBUG;TRACE
-D:\Github\Test1\PropertyChangeApp\NotifyPropertyChangedApp\App.xaml
+D:\work\GitHub\Test1\PropertyChangeApp\NotifyPropertyChangedApp\App.xaml
 11892971807
 
-121820968713
-72-409349525
+121057913987
+72560046039
 Views\MainWindow.xaml;
 
 False
