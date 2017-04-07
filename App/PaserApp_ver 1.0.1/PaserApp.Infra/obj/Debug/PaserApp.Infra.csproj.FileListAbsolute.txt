@@ -1,0 +1,14 @@
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\obj\Debug\PaserApp.Infra.Properties.Resources.resources
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\obj\Debug\PaserApp.Infra.csproj.GenerateResource.Cache
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\bin\Debug\PaserApp.Infra.dll
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\bin\Debug\PaserApp.Infra.pdb
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\bin\Debug\Prism.dll
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\bin\Debug\Prism.Wpf.dll
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\bin\Debug\Prism.xml
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\bin\Debug\Prism.Wpf.xml
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\obj\Debug\PaserApp.Infra.dll
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\obj\Debug\PaserApp.Infra.pdb
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\obj\Debug\PaserApp.Infra.csprojResolveAssemblyReference.cache
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mimoPC\Desktop\PaserApp\PaserApp.Infra\bin\Debug\Newtonsoft.Json.xml
