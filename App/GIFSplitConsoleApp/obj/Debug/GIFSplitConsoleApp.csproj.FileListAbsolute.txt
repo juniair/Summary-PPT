@@ -1,0 +1,8 @@
+C:\Users\mimoPC\Desktop\GIFSplitConsoleApp\bin\Debug\GIFSplitConsoleApp.exe.config
+C:\Users\mimoPC\Desktop\GIFSplitConsoleApp\obj\Debug\GIFSplitConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\mimoPC\Desktop\GIFSplitConsoleApp\bin\Debug\GIFSplitConsoleApp.exe
+C:\Users\mimoPC\Desktop\GIFSplitConsoleApp\bin\Debug\GIFSplitConsoleApp.pdb
+C:\Users\mimoPC\Desktop\GIFSplitConsoleApp\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\mimoPC\Desktop\GIFSplitConsoleApp\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+C:\Users\mimoPC\Desktop\GIFSplitConsoleApp\obj\Debug\GIFSplitConsoleApp.exe
+C:\Users\mimoPC\Desktop\GIFSplitConsoleApp\obj\Debug\GIFSplitConsoleApp.pdb
